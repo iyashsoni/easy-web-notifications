@@ -1,0 +1,30 @@
+{
+  "name": "easy-web-notifications",
+  "version": "1.0.0",
+  "description": "Easy Web Notification registration & handling for Chrome and Firefox browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyashsoni/easy-web-notifications.git"
+  },
+  "keywords": [
+    "web",
+    "push",
+    "notifications",
+    "web",
+    "notifications",
+    "chrome",
+    "firefox",
+    "push",
+    "notifications"
+  ],
+  "author": "Yash Soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iyashsoni/easy-web-notifications/issues"
+  },
+  "homepage": "https://github.com/iyashsoni/easy-web-notifications#readme"
+}
