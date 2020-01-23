@@ -1,6 +1,6 @@
 {
   "name": "easy-web-notifications",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy Web Notification registration & handling for Chrome and Firefox browsers",
   "main": "index.js",
   "scripts": {
